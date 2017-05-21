@@ -1,3 +1,4 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 ###URL是什么？
 统一资源定位符，用于定位互联网上的资源。
 协议 +域名+端口号
