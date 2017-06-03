@@ -1,0 +1,34 @@
+
+html {
+    font: 12px Helvetica,Arial,sans-serif;  
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #DBDBDB;
+  padding: 0 20px 20px 20px;
+  border: 1px solid #81766A;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;    
+  color: #A67C48;
+  text-shadow: 3px 3px 1px #ECB37B;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+dl {
+  line-height: 1.62;
+}
+content {   
+   text-indent:2em;
+   line-height: 1.62;
+}
+a {
+  display: block;
+ }
